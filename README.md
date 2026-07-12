@@ -189,10 +189,9 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 <td><a href="https://github.com/Deniska1980-data">GitHub</a></td>
 </tr>
 
-<tr>
-<td>📧</td>
-<td>denisa_pitnerova@yahoo.com</td>
-</tr>
+<a href="mailto:denisa_pitnerova@yahoo.com">
+denisa_pitnerova@yahoo.com
+</a>
 
 <tr>
 <td>📍</td>
@@ -206,7 +205,7 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 
 ### Thank you for visiting my portfolio.
 
-Every repository represents a real project, a solved problem and another step in my professional growth.
+Every repository represents a real project, real challenges and continuous professional growth.
 
 I believe that the best solutions are created through curiosity, continuous improvement and practical experience.
 
@@ -214,7 +213,7 @@ I believe that the best solutions are created through curiosity, continuous impr
 
 ### Děkuji za návštěvu mého portfolia.
 
-Každý repozitář představuje skutečný projekt, vyřešený problém a další krok na mé profesní cestě.
+Každý repozitář představuje skutečný projekt, skutečné výzvy a průběžný profesní růst.
 
 Věřím, že nejlepší řešení vznikají díky zvídavosti, průběžnému zlepšování a praktickým zkušenostem.
 
