@@ -8,7 +8,7 @@ Hi, I'm Denisa Pitnerová 👋
 </h1>
 
 <p align="center">
-Junior Microsoft 365 | Power Platform | AI Business Automation
+Junior Microsoft 365 | Power Platform | AI & Business Automation
 </p>
 
 <p align="center">
