@@ -78,3 +78,78 @@ AI Process Automation
 > **Technologie by měla lidem práci zjednodušovat, ne komplikovat.**
 >
 > *Baví mě vytvářet řešení, která lidem šetří čas a umožní jim věnovat se tomu, co je opravdu důležité.*
+>
+> ---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Building projects | ## Jak stavím projekty |
+| Every project in this portfolio started with a simple idea. I don't begin with technology. I begin with a problem that could be solved in a better way. | Každý projekt v tomto portfoliu začal jednoduchou myšlenkou. Nezačínám technologií. Začínám problémem, který by šel vyřešit lépe. |
+| I usually build the first working version, test it, identify weak points and then improve it step by step. Every new version is based on what I learned from the previous one. | Nejprve vytvořím první funkční verzi, otestuji ji, najdu slabá místa a potom ji postupně vylepšuji. Každá další verze vychází z toho, co jsem se naučila v té předchozí. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## What projects have taught me | ## Co mě projekty naučily |
+| Building real solutions also means solving real problems. Not every workflow works on the first attempt and not every idea is the right one. | Stavba reálných řešení znamená i řešení reálných problémů. Ne každé workflow funguje napoprvé a ne každý nápad je správný. |
+| Sometimes I spend several hours looking for a single issue. Sometimes I discover that the whole approach needs to be changed. I see this as a natural part of learning, not as failure. | Někdy strávím několik hodin hledáním jedné chyby. Jindy zjistím, že je potřeba změnit celý přístup. Beru to jako přirozenou součást učení, ne jako neúspěch. |
+| During troubleshooting I work with Microsoft Learn, official documentation, Azure documentation, community resources and AI assistants. I compare different approaches before deciding which solution makes the most sense. | Při řešení problémů pracuji s Microsoft Learn, oficiální dokumentací, Azure dokumentací, komunitními zdroji i AI asistenty. Porovnávám různé přístupy a teprve potom se rozhoduji, které řešení dává největší smysl. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Technologies I currently use | ## Technologie, se kterými aktuálně pracuji |
+| **Microsoft 365** | **Microsoft 365** |
+| SharePoint Online | SharePoint Online |
+| Power Automate | Power Automate |
+| Microsoft Teams | Microsoft Teams |
+| Microsoft Forms | Microsoft Forms |
+| Azure OpenAI | Azure OpenAI |
+| AI Hub Prompts | AI Hub Prompts |
+| Logic Apps (fundamentals) | Logic Apps (základy) |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Currently learning | ## Co se právě učím |
+| Azure AI services | Azure AI služby |
+| Power Platform | Power Platform |
+| Dataverse | Dataverse |
+| Dynamics 365 fundamentals | Základy Dynamics 365 |
+| Microsoft Graph | Microsoft Graph |
+| Linux fundamentals | Základy Linuxu |
+| PowerShell | PowerShell |
+| Azure administration fundamentals | Základy administrace Azure |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Lessons learned | ## Co jsem se během projektů naučila |
+| ✔ Good automation starts with understanding the business process. | ✔ Dobrá automatizace začíná pochopením firemního procesu. |
+| ✔ Documentation saves time later. | ✔ Dokumentace šetří čas při dalším rozvoji projektu. |
+| ✔ Testing is as important as building. | ✔ Testování je stejně důležité jako samotná tvorba řešení. |
+| ✔ Sometimes taking one step back is the fastest way forward. | ✔ Někdy je krok zpět nejrychlejší cesta vpřed. |
+| ✔ Different document types require different AI approaches. | ✔ Různé typy dokumentů vyžadují odlišný způsob AI zpracování. |
+| ✔ Every problem solved becomes experience for the next project. | ✔ Každý vyřešený problém je zkušeností pro další projekt. |
+
+---
+
+## What I enjoy most
+
+Rather than collecting technologies, I enjoy connecting them into one functional solution.
+
+For me, a successful project is not just a working workflow. It is a solution that helps someone save time, reduces repetitive work and can be further improved over time.
+
+---
+
+## Co mě baví nejvíce
+
+Nebaví mě sbírat technologie.
+
+Baví mě hledat způsoby, jak jednotlivé technologie propojit do jednoho funkčního řešení.
+
+Za úspěšný projekt nepovažuji pouze funkční workflow. Za úspěch považuji řešení, které někomu ušetří čas, odstraní zbytečnou rutinu a dá se dál rozvíjet.
