@@ -189,9 +189,10 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 <td><a href="https://github.com/Deniska1980-data">GitHub</a></td>
 </tr>
 
-<a href="mailto:denisa_pitnerova@yahoo.com">
-denisa_pitnerova@yahoo.com
-</a>
+<tr>
+<td>📧</td>
+<td>denisa_pitnerova@yahoo.com</td>
+</tr>
 
 <tr>
 <td>📍</td>
