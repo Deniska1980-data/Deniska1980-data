@@ -153,3 +153,87 @@ Nebaví mě sbírat technologie.
 Baví mě hledat způsoby, jak jednotlivé technologie propojit do jednoho funkčního řešení.
 
 Za úspěšný projekt nepovažuji pouze funkční workflow. Za úspěch považuji řešení, které někomu ušetří čas, odstraní zbytečnou rutinu a dá se dál rozvíjet.
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Portfolio Projects | ## Portfolio projekty |
+| Every repository in this GitHub represents a real project that I designed, tested and documented as part of my learning journey. I continuously improve these projects by adding new features, testing different approaches and documenting what I learn. | Každý repozitář na tomto GitHubu představuje reálný projekt, který jsem navrhla, otestovala a zdokumentovala během svého studia a praxe. Projekty průběžně rozvíjím, přidávám nové funkce, testuji různé přístupy a dokumentuji vše, co se při tom naučím. |
+
+---
+
+## Some projects taught me the most
+
+### 🤖 AI Media Processing Agent
+
+**What worked**
+
+- Automated SharePoint workflow
+- Azure OpenAI integration
+- AI document summaries
+- Microsoft Teams notifications
+- Metadata processing
+
+**What I learned**
+
+During testing I discovered that PDF documents and technical drawings stored as PNG files require different AI processing approaches.
+
+Instead of rebuilding the entire solution, I analysed the reason, tested different options and started designing a separate workflow for technical drawings.
+
+Every version of the project helps me better understand Microsoft 365, Power Automate and Azure OpenAI.
+
+---
+
+### 🤖 AI Media Processing Agent
+
+**Co se podařilo**
+
+- Automatizované workflow v SharePointu
+- Integrace Azure OpenAI
+- AI shrnutí dokumentů
+- Notifikace do Microsoft Teams
+- Zpracování metadat
+
+**Co mě projekt naučil**
+
+Během testování jsem zjistila, že PDF dokumenty a technické výkresy uložené jako PNG vyžadují odlišný způsob AI zpracování.
+
+Místo kompletního předělání projektu jsem hledala příčinu, testovala různé možnosti a začala navrhovat samostatné workflow pro technické výkresy.
+
+Každá další verze projektu mi pomáhá lépe porozumět Microsoft 365, Power Automate a Azure OpenAI.
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Looking for a new opportunity | ## Hledám novou pracovní příležitost |
+| I am currently looking for a junior position focused on Microsoft 365, SharePoint, Power Platform or AI-powered business process automation. I would like to join a team where I can continue learning, contribute to real projects and grow alongside experienced colleagues. I am available to start immediately. | Aktuálně hledám juniorskou pozici zaměřenou na Microsoft 365, SharePoint, Power Platform nebo automatizaci firemních procesů s využitím AI. Ráda se připojím k týmu, kde se budu moci dále rozvíjet, podílet se na reálných projektech a učit se od zkušenějších kolegů. Nastoupit mohu ihned. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Let's connect | ## Pojďme se spojit |
+| If you are interested in Microsoft 365, Power Platform or AI automation, feel free to connect with me. I enjoy learning, sharing practical experience and continuously improving my portfolio through real projects. | Pokud vás zajímá Microsoft 365, Power Platform nebo AI automatizace, budu ráda, když se se mnou spojíte. Ráda sdílím zkušenosti z praxe, učím se nové technologie a své portfolio rozvíjím prostřednictvím reálných projektů. |
+
+---
+
+### Contact
+
+💼 LinkedIn  
+www.linkedin.com/in/denisa-pitnerova
+
+💻 GitHub  
+github.com/Deniska1980-data
+
+📧 E-mail  
+denisa_pitnerova@yahoo.com
+
+📍 Prague, Czech Republic
+
+---
+
+> *"The best way for me to learn is to build real solutions, understand why they work, improve them step by step and document the journey."*
+
+> *„Nejlépe se učím tím, že stavím reálná řešení, snažím se pochopit, proč fungují, postupně je vylepšuji a dokumentuji celou cestu.“*
