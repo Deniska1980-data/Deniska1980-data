@@ -87,8 +87,6 @@ AI Process Automation
 
 ---
 
----
-
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Project Story 1 – AI Travel Request Application | ## Projekt 1 – AI aplikace pro služební cesty |
