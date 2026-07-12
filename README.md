@@ -226,3 +226,77 @@ AI Process Automation
 |:-----------|:----------|
 | ## Current Focus | ## Na co se právě zaměřuji |
 | Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI Process Automation • Business Process Design • Governance • Continuous Learning | Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI automatizace • Návrh firemních procesů • Governance • Průběžné vzdělávání |
+
+<!-- ========================================================= -->
+<!-- README V2.0 -->
+<!-- PART 4 -->
+<!-- ========================================================= -->
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Looking for New Opportunities | ## Hledám novou pracovní příležitost |
+| I am currently looking for a junior position focused on Microsoft 365, SharePoint, Power Platform or AI-powered business process automation. I am looking for an environment where I can continue learning, contribute to real projects and grow alongside experienced colleagues. I am available to start immediately. | Aktuálně hledám juniorskou pozici zaměřenou na Microsoft 365, SharePoint, Power Platform nebo automatizaci firemních procesů s využitím AI. Hledám prostředí, kde se budu moci dále rozvíjet, podílet se na reálných projektech a učit se od zkušenějších kolegů. Nastoupit mohu ihned. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## What I Can Bring to Your Team | ## Co mohu přinést vašemu týmu |
+| • Process-oriented thinking based on previous business experience. | • Procesní přemýšlení vycházející z předchozí praxe v administrativě a HR. |
+| • Experience building Microsoft 365 automation projects from idea to working solution. | • Zkušenosti se stavbou Microsoft 365 automatizací od prvního návrhu až po funkční řešení. |
+| • Strong documentation habits and willingness to share knowledge. | • Důraz na dokumentaci a sdílení získaných zkušeností. |
+| • Curiosity, persistence and continuous learning. | • Zvídavost, vytrvalost a chuť se neustále učit. |
+| • The ability to connect business processes with modern Microsoft technologies. | • Schopnost propojit firemní procesy s moderními technologiemi Microsoftu. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Beyond Technology | ## Co je pro mě důležité |
+| Technology alone does not solve problems. Understanding people, their work and the business process always comes first. That is why I enjoy designing solutions that are practical, understandable and useful in everyday work. | Technologie sama o sobě problémy neřeší. Nejprve je potřeba porozumět lidem, jejich práci a firemním procesům. Proto mě baví navrhovat řešení, která jsou praktická, srozumitelná a využitelná v každodenní praxi. |
+| I believe that the best way to grow in IT is to stay curious, keep learning and never stop improving your own projects. | Věřím, že nejlepší cesta k růstu v IT vede přes zvídavost, ochotu učit se a neustálé zlepšování vlastních projektů. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Let's Connect | ## Pojďme se spojit |
+| If my portfolio caught your attention, I would be happy to connect and discuss Microsoft 365, Power Platform, AI automation or future opportunities. | Pokud vás moje portfolio zaujalo, budu ráda, když se spojíme. Ráda si popovídám o Microsoft 365, Power Platform, AI automatizaci nebo budoucí spolupráci. |
+
+---
+
+## 📫 Contact
+
+- 💼 **LinkedIn**  
+  www.linkedin.com/in/denisa-pitnerova
+
+- 💻 **GitHub**  
+  github.com/Deniska1980-data
+
+- 📧 **E-mail**  
+  denisa_pitnerova@yahoo.com
+
+- 📍 **Location**  
+  Prague, Czech Republic
+
+---
+
+<p align="center">
+
+### Thank you for visiting my portfolio.
+
+Every repository represents another step in my learning journey.
+
+I believe that the best solutions are created through curiosity, continuous improvement and practical experience.
+
+---
+
+### Děkuji za návštěvu mého portfolia.
+
+Každý repozitář představuje další krok na mé profesní cestě.
+
+Věřím, že nejlepší řešení vznikají díky zvídavosti, postupnému zlepšování a praktickým zkušenostem.
+
+</p>
