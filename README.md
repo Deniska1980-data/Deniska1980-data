@@ -80,7 +80,6 @@ AI Process Automation
 <!-- ========================================================= -->
 
 ---
-
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
