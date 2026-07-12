@@ -70,14 +70,12 @@ Azure OpenAI
 AI Process Automation
 ```
 
----
-
 > **Technology should simplify people's work, not make it more complicated.**
 
 > **Technologie by měla lidem práci zjednodušovat, ne komplikovat.**
 
 <!-- ========================================================= -->
-<!-- README V2.0 -->
+<!-- README V2.1 -->
 <!-- PART 2 -->
 <!-- ========================================================= -->
 
@@ -85,88 +83,43 @@ AI Process Automation
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Learning by Building | ## Učím se stavbou projektů |
-| I learn best by building real solutions. Every project starts with a simple idea, grows through experimentation and gradually becomes a more complete solution. | Nejvíce se učím při stavbě reálných řešení. Každý projekt začíná jednoduchým nápadem, pokračuje experimentováním a postupně se rozvíjí do propracovanějšího řešení. |
-| I don't expect everything to work on the first attempt. Testing, analysing problems and improving previous versions are a natural part of my work. | Neočekávám, že bude všechno fungovat napoprvé. Testování, hledání příčin problémů a postupné vylepšování předchozích verzí beru jako přirozenou součást práce. |
-| Every completed project becomes the foundation for the next one. | Každý dokončený projekt se stává základem pro další verzi nebo nový projekt. |
+| ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
+| I learn best by building real solutions. Every project starts with an idea, continues through testing and often requires redesign before reaching the final version. This portfolio reflects not only successful results but also the lessons learned along the way. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt začíná nápadem, pokračuje testováním a často vyžaduje přepracování, než vznikne finální verze. Toto portfolio neukazuje jen výsledky, ale také zkušenosti, které jsem během práce získala. |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## What Real Projects Have Taught Me | ## Co mě naučily reálné projekty |
-
----
-
-### 🤖 AI Media Processing Agent
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| **Challenge** | **Výzva** |
-| During testing I discovered that text-based PDF documents and technical drawings stored as PNG images cannot be processed in the same way. | Během testování jsem zjistila, že textová PDF a technické výkresy uložené jako PNG nelze zpracovávat stejným způsobem. |
-| **What I learned** | **Co jsem se naučila** |
-| I realised that successful AI processing is not only about choosing the right model but also about understanding the input data. The next version of the project will include a dedicated workflow for technical drawings. | Uvědomila jsem si, že úspěšné AI zpracování není jen o správném modelu, ale také o pochopení vstupních dat. Další verze projektu bude obsahovat samostatné workflow pro technické výkresy. |
-
----
-
-### 🔄 HR AI Workflow
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| **Challenge** | **Výzva** |
-| The workflow finished successfully, but the AI output was not displayed correctly in SharePoint. | Workflow proběhlo úspěšně, ale AI výstup se nezobrazoval správně v SharePointu. |
-| **What I learned** | **Co jsem se naučila** |
-| A successful Flow run does not always mean the solution works correctly. I learned how to verify data mapping, SharePoint columns and each step of the workflow separately. | Úspěšně dokončené Flow ještě neznamená správný výsledek. Naučila jsem se ověřovat mapování dat, SharePoint sloupce i jednotlivé kroky workflow samostatně. |
-
----
-
-### ☁️ Microsoft 365
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| **Challenge** | **Výzva** |
-| Microsoft 365 changes continuously. Some features moved, changed or looked different during my learning journey. | Microsoft 365 se průběžně vyvíjí. Během učení se některé funkce přesunuly nebo změnily svůj vzhled. |
-| **What I learned** | **Co jsem se naučila** |
-| Instead of relying on old tutorials, I learned to work with current Microsoft documentation, test changes myself and adapt to the evolving platform. | Místo spoléhání na staré návody jsem se naučila pracovat s aktuální dokumentací Microsoftu, změny si sama ověřovat a přizpůsobovat se vývoji platformy. |
-
----
-
-### 🔄 Power Automate
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| **Challenge** | **Výzva** |
-| Several workflows required multiple redesigns before they behaved as expected. | Některá workflow bylo potřeba několikrát přepracovat, než fungovala podle očekávání. |
-| **What I learned** | **Co jsem se naučila** |
-| Sometimes taking one step back is faster than trying to fix the wrong approach. Building, testing and redesigning became a natural part of my work. | Někdy je rychlejší vrátit se o krok zpět než dlouho opravovat špatně navržené řešení. Stavba, testování a přepracování návrhu se pro mě staly běžnou součástí práce. |
+| ## Project Story – AI Media Processing Agent | ## Projekt – AI Media Processing Agent |
+| **Project Goal**<br>Build an automated solution for processing documents using Microsoft 365, SharePoint, Power Automate and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované řešení pro zpracování dokumentů pomocí Microsoft 365, SharePointu, Power Automate a Azure OpenAI. |
+| **Challenge**<br>At first I expected PDF documents and PNG technical drawings to be processed in the same way. During testing I discovered that image-based documents require a different processing approach. | **Výzva**<br>Na začátku jsem předpokládala, že PDF dokumenty a technické výkresy ve formátu PNG bude možné zpracovávat stejným způsobem. Testování ale ukázalo, že obrazové dokumenty vyžadují jiný přístup. |
+| **How I approached it**<br>I compared outputs, tested different approaches and redesigned the workflow to support different document types. Instead of forcing one solution, I adapted the architecture to the data. | **Jak jsem postupovala**<br>Porovnávala jsem výsledky, testovala různé možnosti a upravila návrh workflow tak, aby podporoval různé typy dokumentů. Místo hledání univerzálního řešení jsem přizpůsobila architekturu typu vstupních dat. |
+| **What I learned**<br>The quality of AI output depends not only on the model itself but also on how the input data is prepared. Understanding the data is just as important as understanding the technology. | **Co jsem se naučila**<br>Kvalita AI výstupu nezávisí pouze na modelu, ale také na tom, jak jsou připravena vstupní data. Stejně důležité jako znát technologii je porozumět samotným datům. |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Technologies I use most often | ## Technologie, které používám nejčastěji |
-
-| **Daily** | **Každodenní práce** |
-| SharePoint Online | SharePoint Online |
-| Power Automate | Power Automate |
-| Microsoft Teams | Microsoft Teams |
-| Microsoft Forms | Microsoft Forms |
-| Azure OpenAI | Azure OpenAI |
-
-| **Currently Learning** | **Právě se učím** |
-| Power Apps | Power Apps |
-| Dataverse | Dataverse |
-| Dynamics 365 Fundamentals | Základy Dynamics 365 |
-| Microsoft Graph | Microsoft Graph |
-| Logic Apps | Logic Apps |
+| ## Project Story – HR AI Workflow | ## Projekt – HR AI Workflow |
+| **Project Goal**<br>Create an automated HR workflow connecting Microsoft Forms, SharePoint, Power Automate, Microsoft Teams and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované HR workflow propojující Microsoft Forms, SharePoint, Power Automate, Microsoft Teams a Azure OpenAI. |
+| **Challenge**<br>The workflow completed successfully, but the AI results were not displayed correctly in SharePoint. | **Výzva**<br>Workflow doběhlo bez chyby, ale AI výsledky se správně nezobrazovaly v SharePointu. |
+| **How I approached it**<br>I verified every step of the workflow, checked SharePoint columns, dynamic content and intermediate outputs until I identified the source of the problem. | **Jak jsem postupovala**<br>Postupně jsem kontrolovala jednotlivé kroky workflow, SharePoint sloupce, dynamický obsah i mezivýstupy, dokud jsem nenašla příčinu problému. |
+| **What I learned**<br>A successful Flow run does not automatically mean a successful business solution. Validation, testing and verification are essential parts of every automation project. | **Co jsem se naučila**<br>Úspěšně dokončené Flow ještě neznamená úspěšně dokončené řešení. Ověření výsledků, testování a kontrola dat jsou stejně důležité jako samotná implementace. |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Documentation Matters | ## Dokumentace je součást projektu |
-| I document every project because documentation helps me understand the solution better and makes future improvements much easier. | Každý projekt dokumentuji, protože mi dokumentace pomáhá lépe porozumět řešení a výrazně usnadňuje jeho další rozvoj. |
-| Every new version builds on what I learned in the previous one. | Každá další verze projektu vychází z poznatků získaných při té předchozí. |
+| ## What These Projects Changed | ## Co mi tyto projekty daly |
+| These projects changed the way I think about automation. Today I start with understanding the business process rather than choosing a technology. Only then do I design the solution. | Tyto projekty změnily způsob, jakým přemýšlím o automatizaci. Dnes nezačínám výběrem technologie, ale snahou porozumět procesu. Teprve potom navrhuji řešení. |
+| I also learned that returning one step back is sometimes the fastest way forward. Redesigning a workflow is often more effective than trying to repair a solution that was not designed correctly from the beginning. | Také jsem zjistila, že vrátit se o krok zpět bývá někdy nejrychlejší cesta vpřed. Přepracování návrhu je často efektivnější než dlouhé opravování řešení, které nebylo od začátku správně navržené. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Technologies I Work With | ## Technologie, se kterými pracuji |
+| Microsoft 365 • SharePoint Online • Power Automate • Microsoft Teams • Microsoft Forms • Azure OpenAI • Power Apps *(learning)* | Microsoft 365 • SharePoint Online • Power Automate • Microsoft Teams • Microsoft Forms • Azure OpenAI • Power Apps *(průběžně se učím)* |
 
 ---
 <!-- ========================================================= -->
