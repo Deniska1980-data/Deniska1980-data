@@ -8,7 +8,7 @@ Hi, I'm Denisa Pitnerová 👋
 </h1>
 
 <p align="center">
-Junior Microsoft 365 • Power Platform • Azure OpenAI • Business Process Automation
+Junior Microsoft 365 | Power Platform | AI Business Automation
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Microsoft Teams
 Azure OpenAI
         │
         ▼
-AI Process Automation
+Business AI Solutions
 ```
 
 > **Technology should simplify people's work, not make it more complicated.**
@@ -122,6 +122,9 @@ AI Process Automation
 | **How I approached it**<br>I compared different outputs, analysed the behaviour of Azure OpenAI and redesigned the workflow instead of trying to force a single solution. The next version of the project will include a dedicated processing path for technical drawings. | **Jak jsem postupovala**<br>Porovnávala jsem různé výstupy, analyzovala chování Azure OpenAI a místo hledání jednoho univerzálního řešení jsem upravila architekturu workflow. Další verze projektu bude obsahovat samostatné zpracování technických výkresů. |
 | **What I learned**<br>I realised that AI is not only about selecting the right model. Understanding the input data is just as important as understanding the technology itself. | **Co jsem se naučila**<br>Uvědomila jsem si, že AI není jen o výběru správného modelu. Stejně důležité je porozumět vstupním datům a tomu, jak je správně připravit. |
 
+EN: This project is still evolving as I continue experimenting with multimodal AI processing.
+CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpracování.
+
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
@@ -144,7 +147,7 @@ AI Process Automation
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Looking for New Opportunities | ## Hledám novou pracovní příležitost |
-| I am looking for a Junior Microsoft 365 / Power Platform position where I can continue developing practical business solutions, learn from experienced colleagues and contribute to projects that create real value for users. I am available to start immediately. | Hledám juniorskou pozici v oblasti Microsoft 365 nebo Power Platform, kde budu moci dále rozvíjet praktická řešení, učit se od zkušenějších kolegů a podílet se na projektech, které mají skutečný přínos pro uživatele. Nastoupit mohu ihned. |
+| I am looking for a Junior Microsoft 365 / Power Platform position where I can continue building practical Microsoft 365 and AI solutions, learn from experienced colleagues and contribute to projects that create real value for users. I am available to start immediately. | Hledám juniorskou pozici v oblasti Microsoft 365 nebo Power Platform, kde budu moci dále rozvíjet praktická řešení, učit se od zkušenějších kolegů a podílet se na projektech, které mají skutečný přínos pro uživatele. Nastoupit mohu ihned. |
 
 ---
 
