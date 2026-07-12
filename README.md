@@ -269,18 +269,17 @@ AI Process Automation
 
 ## 📫 Contact
 
-- 💼 **LinkedIn**  
-  www.linkedin.com/in/denisa-pitnerova
+💼 **LinkedIn**  
+<a href="https://www.linkedin.com/in/denisa-pitnerova">linkedin.com/in/denisa-pitnerova</a>
 
-- 💻 **GitHub**  
-  github.com/Deniska1980-data
+💻 **GitHub**  
+github.com/Deniska1980-data
 
-- 📧 **E-mail**  
-  denisa_pitnerova@yahoo.com
+📧 **E-mail**  
+<code>denisa_pitnerova@yahoo.com</code>
 
-- 📍 **Location**  
-  Prague, Czech Republic
-
+📍 **Location**  
+Prague, Czech Republic
 ---
 
 <p align="center">
