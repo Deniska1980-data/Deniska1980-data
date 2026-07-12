@@ -135,13 +135,6 @@ AI Process Automation
 
 ---
 
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
-| I learn best by building real business solutions. Every project in this portfolio represents a real problem that I had to analyse, test and gradually improve. Some solutions worked immediately, while others required me to step back, redesign the architecture and try again. Those experiences taught me much more than following a tutorial ever could. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt v tomto portfoliu představuje skutečný problém, který jsem musela analyzovat, testovat a postupně vylepšovat. Některá řešení fungovala hned, jiná mě donutila vrátit se o krok zpět, přepracovat architekturu a začít znovu. Právě tyto zkušenosti mě naučily nejvíce. |
-
----
-
 <!-- ========================================================= -->
 <!-- README V2.0 -->
 <!-- PART 3 -->
