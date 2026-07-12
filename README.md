@@ -96,7 +96,9 @@ AI Process Automation
 ### 🏗️ Architecture Overview
 
 <p align="center">
-  <img src="images/travel-request-workflow.png" alt="End-to-End AI Travel Request Workflow" width="100%">
+  <img src="travel-request-workflow.png"
+       alt="End-to-End AI Travel Request Workflow"
+       width="100%">
 </p>
 
 > **End-to-end workflow:** Firebase Studio → Firestore → Power Automate → SharePoint → Approval → Microsoft Teams / Outlook
