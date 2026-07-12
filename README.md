@@ -75,3 +75,97 @@ AI Process Automation
 > **Technology should simplify people's work, not make it more complicated.**
 
 > **Technologie by měla lidem práci zjednodušovat, ne komplikovat.**
+
+<!-- ========================================================= -->
+<!-- README V2.0 -->
+<!-- PART 2 -->
+<!-- ========================================================= -->
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Learning by Building | ## Učím se stavbou projektů |
+| I learn best by building real solutions. Every project starts with a simple idea, grows through experimentation and gradually becomes a more complete solution. | Nejvíce se učím při stavbě reálných řešení. Každý projekt začíná jednoduchým nápadem, pokračuje experimentováním a postupně se rozvíjí do propracovanějšího řešení. |
+| I don't expect everything to work on the first attempt. Testing, analysing problems and improving previous versions are a natural part of my work. | Neočekávám, že bude všechno fungovat napoprvé. Testování, hledání příčin problémů a postupné vylepšování předchozích verzí beru jako přirozenou součást práce. |
+| Every completed project becomes the foundation for the next one. | Každý dokončený projekt se stává základem pro další verzi nebo nový projekt. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## What Real Projects Have Taught Me | ## Co mě naučily reálné projekty |
+
+---
+
+### 🤖 AI Media Processing Agent
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| **Challenge** | **Výzva** |
+| During testing I discovered that text-based PDF documents and technical drawings stored as PNG images cannot be processed in the same way. | Během testování jsem zjistila, že textová PDF a technické výkresy uložené jako PNG nelze zpracovávat stejným způsobem. |
+| **What I learned** | **Co jsem se naučila** |
+| I realised that successful AI processing is not only about choosing the right model but also about understanding the input data. The next version of the project will include a dedicated workflow for technical drawings. | Uvědomila jsem si, že úspěšné AI zpracování není jen o správném modelu, ale také o pochopení vstupních dat. Další verze projektu bude obsahovat samostatné workflow pro technické výkresy. |
+
+---
+
+### 🔄 HR AI Workflow
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| **Challenge** | **Výzva** |
+| The workflow finished successfully, but the AI output was not displayed correctly in SharePoint. | Workflow proběhlo úspěšně, ale AI výstup se nezobrazoval správně v SharePointu. |
+| **What I learned** | **Co jsem se naučila** |
+| A successful Flow run does not always mean the solution works correctly. I learned how to verify data mapping, SharePoint columns and each step of the workflow separately. | Úspěšně dokončené Flow ještě neznamená správný výsledek. Naučila jsem se ověřovat mapování dat, SharePoint sloupce i jednotlivé kroky workflow samostatně. |
+
+---
+
+### ☁️ Microsoft 365
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| **Challenge** | **Výzva** |
+| Microsoft 365 changes continuously. Some features moved, changed or looked different during my learning journey. | Microsoft 365 se průběžně vyvíjí. Během učení se některé funkce přesunuly nebo změnily svůj vzhled. |
+| **What I learned** | **Co jsem se naučila** |
+| Instead of relying on old tutorials, I learned to work with current Microsoft documentation, test changes myself and adapt to the evolving platform. | Místo spoléhání na staré návody jsem se naučila pracovat s aktuální dokumentací Microsoftu, změny si sama ověřovat a přizpůsobovat se vývoji platformy. |
+
+---
+
+### 🔄 Power Automate
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| **Challenge** | **Výzva** |
+| Several workflows required multiple redesigns before they behaved as expected. | Některá workflow bylo potřeba několikrát přepracovat, než fungovala podle očekávání. |
+| **What I learned** | **Co jsem se naučila** |
+| Sometimes taking one step back is faster than trying to fix the wrong approach. Building, testing and redesigning became a natural part of my work. | Někdy je rychlejší vrátit se o krok zpět než dlouho opravovat špatně navržené řešení. Stavba, testování a přepracování návrhu se pro mě staly běžnou součástí práce. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Technologies I use most often | ## Technologie, které používám nejčastěji |
+
+| **Daily** | **Každodenní práce** |
+| SharePoint Online | SharePoint Online |
+| Power Automate | Power Automate |
+| Microsoft Teams | Microsoft Teams |
+| Microsoft Forms | Microsoft Forms |
+| Azure OpenAI | Azure OpenAI |
+
+| **Currently Learning** | **Právě se učím** |
+| Power Apps | Power Apps |
+| Dataverse | Dataverse |
+| Dynamics 365 Fundamentals | Základy Dynamics 365 |
+| Microsoft Graph | Microsoft Graph |
+| Logic Apps | Logic Apps |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Documentation Matters | ## Dokumentace je součást projektu |
+| I document every project because documentation helps me understand the solution better and makes future improvements much easier. | Každý projekt dokumentuji, protože mi dokumentace pomáhá lépe porozumět řešení a výrazně usnadňuje jeho další rozvoj. |
+| Every new version builds on what I learned in the previous one. | Každá další verze projektu vychází z poznatků získaných při té předchozí. |
+
+---
