@@ -276,7 +276,7 @@ AI Process Automation
 github.com/Deniska1980-data
 
 📧 **E-mail**  
-<code>denisa_pitnerova@yahoo.com</code>
+denisa_pitnerova@yahoo.com
 
 📍 **Location**  
 Prague, Czech Republic
