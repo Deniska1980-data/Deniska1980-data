@@ -169,3 +169,60 @@ AI Process Automation
 | Every new version builds on what I learned in the previous one. | Každá další verze projektu vychází z poznatků získaných při té předchozí. |
 
 ---
+<!-- ========================================================= -->
+<!-- README V2.0 -->
+<!-- PART 3 -->
+<!-- ========================================================= -->
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Featured Portfolio Projects | ## Hlavní portfolio projekty |
+| Every project in this portfolio represents a real solution that I designed, tested and continue improving inside my personal Microsoft 365 tenant. Each project helped me better understand Microsoft technologies and business process automation. | Každý projekt v tomto portfoliu představuje reálné řešení, které jsem navrhla, otestovala a dále rozvíjím ve svém vlastním Microsoft 365 tenantovi. Každý projekt mi pomohl lépe porozumět technologiím Microsoftu i automatizaci firemních procesů. |
+
+---
+
+| 🇬🇧 AI Media Processing Agent | 🇨🇿 AI Media Processing Agent |
+|:-----------|:----------|
+| **Business Problem**<br>Automate document processing using Microsoft 365, SharePoint, Power Automate and Azure OpenAI. | **Řešený problém**<br>Automatizovat zpracování dokumentů pomocí Microsoft 365, SharePointu, Power Automate a Azure OpenAI. |
+| **What I built**<br>Document upload, SharePoint registration, AI summary, metadata extraction and Microsoft Teams notifications. | **Co jsem vytvořila**<br>Nahrání dokumentu, registraci v SharePointu, AI shrnutí, zpracování metadat a notifikace do Microsoft Teams. |
+| **What I learned**<br>During testing I discovered that text-based PDF documents and technical drawings stored as PNG images require different AI processing approaches. The next version of the project will include a dedicated workflow for technical drawings. | **Co jsem se naučila**<br>Během testování jsem zjistila, že textová PDF a technické výkresy uložené jako PNG vyžadují odlišný způsob AI zpracování. Další verze projektu bude obsahovat samostatné workflow pro technické výkresy. |
+
+---
+
+| 🇬🇧 HR AI Workflow | 🇨🇿 HR AI Workflow |
+|:-----------|:----------|
+| **Business Problem**<br>Automate HR requests and enrich them with AI before storing them in SharePoint. | **Řešený problém**<br>Automatizovat zpracování HR požadavků a doplnit je o AI analýzu před uložením do SharePointu. |
+| **What I built**<br>Microsoft Forms, SharePoint, Power Automate, Azure OpenAI and Microsoft Teams integration. | **Co jsem vytvořila**<br>Propojení Microsoft Forms, SharePointu, Power Automate, Azure OpenAI a Microsoft Teams. |
+| **What I learned**<br>A Flow can finish successfully while the final result is still incorrect. I learned to verify SharePoint fields, data mapping and the complete business process. | **Co jsem se naučila**<br>Úspěšně dokončené Flow ještě nemusí znamenat správný výsledek. Naučila jsem se kontrolovat SharePoint pole, mapování dat i celý průběh procesu. |
+
+---
+
+| 🇬🇧 AI Learning Radar | 🇨🇿 AI Learning Radar |
+|:-----------|:----------|
+| **Business Problem**<br>Automatically collect Microsoft news, generate AI summaries and notify users through Microsoft Teams. | **Řešený problém**<br>Automaticky sbírat novinky z Microsoft prostředí, vytvářet AI shrnutí a doručovat je do Microsoft Teams. |
+| **What I built**<br>RSS monitoring, Azure OpenAI summaries, SharePoint storage and Teams notifications. | **Co jsem vytvořila**<br>Sledování RSS, AI shrnutí pomocí Azure OpenAI, ukládání do SharePointu a notifikace do Microsoft Teams. |
+| **What I learned**<br>Automation is not only about saving time. It can also help people stay informed without manually searching for new information. | **Co jsem se naučila**<br>Automatizace neslouží pouze k úspoře času. Může lidem pomoci získávat důležité informace bez nutnosti je aktivně vyhledávat. |
+
+---
+
+| 🇬🇧 Compliance Agent *(In Progress)* | 🇨🇿 Compliance Agent *(Ve vývoji)* |
+|:-----------|:----------|
+| **Business Problem**<br>Analyse business documents for DORA, NIS2 and GDPR compliance using Azure OpenAI. | **Řešený problém**<br>Analyzovat firemní dokumenty z pohledu DORA, NIS2 a GDPR pomocí Azure OpenAI. |
+| **Current Goal**<br>Create an AI assistant that identifies compliance risks, stores findings in SharePoint and supports governance processes. | **Aktuální cíl**<br>Vytvořit AI řešení, které identifikuje compliance rizika, ukládá výsledky do SharePointu a podporuje governance procesy. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## What these projects taught me | ## Co mě tyto projekty naučily |
+| Every project helped me understand that building automation is not only about creating workflows. It is about understanding business processes, testing different approaches and continuously improving the solution. | Každý projekt mi ukázal, že automatizace není jen tvorba workflow. Je především o pochopení firemních procesů, testování různých přístupů a postupném zlepšování řešení. |
+| The most valuable lessons often came from situations where the first solution did not work as expected. Those moments helped me understand the technology much better. | Nejcennější zkušenosti často vznikly právě ve chvílích, kdy první řešení nefungovalo podle očekávání. Právě tyto situace mi pomohly technologiím mnohem lépe porozumět. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Current Focus | ## Na co se právě zaměřuji |
+| Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI Process Automation • Business Process Design • Governance • Continuous Learning | Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI automatizace • Návrh firemních procesů • Governance • Průběžné vzdělávání |
