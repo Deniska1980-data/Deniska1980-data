@@ -83,6 +83,15 @@ AI Process Automation
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
+| ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
+| I learn best by building real business solutions. Every project in this portfolio represents a real problem that I had to analyse, test and gradually improve. Some solutions worked immediately, while others required me to step back, redesign the architecture and try again. Those experiences taught me much more than following a tutorial ever could. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt v tomto portfoliu představuje skutečný problém, který jsem musela analyzovat, testovat a postupně vylepšovat. Některá řešení fungovala hned, jiná mě donutila vrátit se o krok zpět, přepracovat architekturu a začít znovu. Právě tyto zkušenosti mě naučily nejvíce. |
+
+---
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
 | ## Project Story 1 – AI Travel Request Application | ## Projekt 1 – AI aplikace pro služební cesty |
 | **Business Goal**<br>Design and build a business travel request application using Firebase Studio and Gemini, with a future integration into Microsoft 365 business processes. | **Cíl projektu**<br>Navrhnout a vytvořit aplikaci pro služební cesty pomocí Firebase Studio a Gemini s možností budoucí integrace do procesů Microsoft 365. |
 | **Technologies**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook | **Technologie**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook |
