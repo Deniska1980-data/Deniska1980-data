@@ -75,7 +75,7 @@ AI Process Automation
 > **Technologie by měla lidem práci zjednodušovat, ne komplikovat.**
 
 <!-- ========================================================= -->
-<!-- README V2.1 -->
+<!-- README V2.2 -->
 <!-- PART 2 -->
 <!-- ========================================================= -->
 
@@ -83,106 +83,47 @@ AI Process Automation
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
+| ## Project Story 1 – AI Travel Request Application | ## Projekt 1 – AI aplikace pro služební cesty |
+| **Business Goal**<br>Design and build a business travel request application using Firebase Studio and Gemini, with a future integration into Microsoft 365 business processes. | **Cíl projektu**<br>Navrhnout a vytvořit aplikaci pro služební cesty pomocí Firebase Studio a Gemini s možností budoucí integrace do procesů Microsoft 365. |
+| **Technologies**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook | **Technologie**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook |
+| **Challenge**<br>The biggest challenge was not building the application itself. I first had to understand how Firebase Studio, Firestore and Google Cloud work together. My initial version did not store data as expected, so instead of adding more features I returned to the architecture and rebuilt the solution from the database upwards. | **Výzva**<br>Nejtěžší částí nebylo vytvoření aplikace. Nejprve jsem musela pochopit spolupráci Firebase Studio, Firestore a Google Cloud. První verze neukládala data podle očekávání, proto jsem se místo přidávání dalších funkcí vrátila zpět a přepracovala řešení od databáze. |
+| **How I approached it**<br>I created the Firestore database, verified data storage and only then continued developing the application with Gemini. The application supports multiple currencies, travel expenses, accommodation, flights and cash advance requests. Afterwards I prepared the workflow for SharePoint, Power Automate and approval notifications. | **Jak jsem postupovala**<br>Nejdříve jsem vytvořila databázi Firestore, ověřila správné ukládání dat a teprve potom pokračovala ve vývoji aplikace pomocí Gemini. Aplikace podporuje více měn, plánování nákladů, ubytování, letenky i žádost o zálohu. Následně jsem připravila workflow pro SharePoint, Power Automate a schvalovací proces. |
+| **What I learned**<br>This project changed the way I approach application development. Today I always start with data, business processes and architecture before designing the user interface. | **Co jsem se naučila**<br>Tento projekt změnil způsob, jakým přemýšlím o vývoji aplikací. Dnes začínám daty, procesem a architekturou. Uživatelské rozhraní navrhuji až poté. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Project Story 2 – AI Media Processing Agent | ## Projekt 2 – AI Media Processing Agent |
+| **Business Goal**<br>Create an automated document processing workflow using SharePoint, Power Automate and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované zpracování dokumentů pomocí SharePointu, Power Automate a Azure OpenAI. |
+| **Technologies**<br>SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams | **Technologie**<br>SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams |
+| **Challenge**<br>During testing I discovered that PDF documents and PNG technical drawings cannot be processed in the same way. Although the workflow completed successfully, the AI processing needed a different approach for image-based documents. | **Výzva**<br>Během testování jsem zjistila, že PDF dokumenty a technické výkresy ve formátu PNG nelze zpracovávat stejným způsobem. Workflow sice proběhlo úspěšně, ale AI zpracování obrazových dokumentů vyžadovalo jiný přístup. |
+| **How I approached it**<br>I compared different outputs, analysed the behaviour of Azure OpenAI and redesigned the workflow instead of trying to force a single solution. The next version of the project will include a dedicated processing path for technical drawings. | **Jak jsem postupovala**<br>Porovnávala jsem různé výstupy, analyzovala chování Azure OpenAI a místo hledání jednoho univerzálního řešení jsem upravila architekturu workflow. Další verze projektu bude obsahovat samostatné zpracování technických výkresů. |
+| **What I learned**<br>I realised that AI is not only about selecting the right model. Understanding the input data is just as important as understanding the technology itself. | **Co jsem se naučila**<br>Uvědomila jsem si, že AI není jen o výběru správného modelu. Stejně důležité je porozumět vstupním datům a tomu, jak je správně připravit. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
+| ## Project Story 3 – HR AI Workflow | ## Projekt 3 – HR AI Workflow |
+| **Business Goal**<br>Build an automated HR workflow connecting Microsoft Forms, SharePoint, Power Automate, Azure OpenAI and Microsoft Teams. | **Cíl projektu**<br>Vytvořit automatizované HR workflow propojující Microsoft Forms, SharePoint, Power Automate, Azure OpenAI a Microsoft Teams. |
+| **Technologies**<br>Microsoft Forms • SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams | **Technologie**<br>Microsoft Forms • SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams |
+| **Challenge**<br>The workflow completed successfully, but the AI output was not displayed correctly in SharePoint. Finding the root cause required checking every step instead of assuming the workflow was correct because it finished without errors. | **Výzva**<br>Workflow doběhlo bez chyby, ale AI výstupy se správně nezobrazovaly v SharePointu. Bylo potřeba projít celý proces krok po kroku a nehledět jen na to, že Flow skončilo úspěšně. |
+| **How I approached it**<br>I verified SharePoint columns, internal field names, dynamic content and data mapping until I identified the source of the problem. Each test brought me closer to the final solution. | **Jak jsem postupovala**<br>Postupně jsem kontrolovala SharePoint sloupce, interní názvy polí, dynamický obsah i mapování dat, dokud jsem nenašla skutečnou příčinu problému. Každý test mě posunul o krok blíž ke správnému řešení. |
+| **What I learned**<br>I learned that successful automation is not measured by a green checkmark in Power Automate, but by correct business results. Validation, testing and documentation are essential parts of every project. | **Co jsem se naučila**<br>Naučila jsem se, že úspěšná automatizace se nepozná podle zelené fajfky v Power Automate, ale podle správného výsledku. Ověření dat, testování a dokumentace jsou nedílnou součástí každého projektu. |
+
+---
+
+| 🇬🇧 English | 🇨🇿 Česky |
+|:-----------|:----------|
 | ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
-| I learn best by building real solutions. Every project starts with an idea, continues through testing and often requires redesign before reaching the final version. This portfolio reflects not only successful results but also the lessons learned along the way. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt začíná nápadem, pokračuje testováním a často vyžaduje přepracování, než vznikne finální verze. Toto portfolio neukazuje jen výsledky, ale také zkušenosti, které jsem během práce získala. |
+| I learn best by building real business solutions. Every project in this portfolio represents a real problem that I had to analyse, test and gradually improve. Some solutions worked immediately, while others required me to step back, redesign the architecture and try again. Those experiences taught me much more than following a tutorial ever could. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt v tomto portfoliu představuje skutečný problém, který jsem musela analyzovat, testovat a postupně vylepšovat. Některá řešení fungovala hned, jiná mě donutila vrátit se o krok zpět, přepracovat architekturu a začít znovu. Právě tyto zkušenosti mě naučily nejvíce. |
 
 ---
 
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Project Story – AI Media Processing Agent | ## Projekt – AI Media Processing Agent |
-| **Project Goal**<br>Build an automated solution for processing documents using Microsoft 365, SharePoint, Power Automate and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované řešení pro zpracování dokumentů pomocí Microsoft 365, SharePointu, Power Automate a Azure OpenAI. |
-| **Challenge**<br>At first I expected PDF documents and PNG technical drawings to be processed in the same way. During testing I discovered that image-based documents require a different processing approach. | **Výzva**<br>Na začátku jsem předpokládala, že PDF dokumenty a technické výkresy ve formátu PNG bude možné zpracovávat stejným způsobem. Testování ale ukázalo, že obrazové dokumenty vyžadují jiný přístup. |
-| **How I approached it**<br>I compared outputs, tested different approaches and redesigned the workflow to support different document types. Instead of forcing one solution, I adapted the architecture to the data. | **Jak jsem postupovala**<br>Porovnávala jsem výsledky, testovala různé možnosti a upravila návrh workflow tak, aby podporoval různé typy dokumentů. Místo hledání univerzálního řešení jsem přizpůsobila architekturu typu vstupních dat. |
-| **What I learned**<br>The quality of AI output depends not only on the model itself but also on how the input data is prepared. Understanding the data is just as important as understanding the technology. | **Co jsem se naučila**<br>Kvalita AI výstupu nezávisí pouze na modelu, ale také na tom, jak jsou připravena vstupní data. Stejně důležité jako znát technologii je porozumět samotným datům. |
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Project Story – HR AI Workflow | ## Projekt – HR AI Workflow |
-| **Project Goal**<br>Create an automated HR workflow connecting Microsoft Forms, SharePoint, Power Automate, Microsoft Teams and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované HR workflow propojující Microsoft Forms, SharePoint, Power Automate, Microsoft Teams a Azure OpenAI. |
-| **Challenge**<br>The workflow completed successfully, but the AI results were not displayed correctly in SharePoint. | **Výzva**<br>Workflow doběhlo bez chyby, ale AI výsledky se správně nezobrazovaly v SharePointu. |
-| **How I approached it**<br>I verified every step of the workflow, checked SharePoint columns, dynamic content and intermediate outputs until I identified the source of the problem. | **Jak jsem postupovala**<br>Postupně jsem kontrolovala jednotlivé kroky workflow, SharePoint sloupce, dynamický obsah i mezivýstupy, dokud jsem nenašla příčinu problému. |
-| **What I learned**<br>A successful Flow run does not automatically mean a successful business solution. Validation, testing and verification are essential parts of every automation project. | **Co jsem se naučila**<br>Úspěšně dokončené Flow ještě neznamená úspěšně dokončené řešení. Ověření výsledků, testování a kontrola dat jsou stejně důležité jako samotná implementace. |
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## What These Projects Changed | ## Co mi tyto projekty daly |
-| These projects changed the way I think about automation. Today I start with understanding the business process rather than choosing a technology. Only then do I design the solution. | Tyto projekty změnily způsob, jakým přemýšlím o automatizaci. Dnes nezačínám výběrem technologie, ale snahou porozumět procesu. Teprve potom navrhuji řešení. |
-| I also learned that returning one step back is sometimes the fastest way forward. Redesigning a workflow is often more effective than trying to repair a solution that was not designed correctly from the beginning. | Také jsem zjistila, že vrátit se o krok zpět bývá někdy nejrychlejší cesta vpřed. Přepracování návrhu je často efektivnější než dlouhé opravování řešení, které nebylo od začátku správně navržené. |
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Technologies I Work With | ## Technologie, se kterými pracuji |
-| Microsoft 365 • SharePoint Online • Power Automate • Microsoft Teams • Microsoft Forms • Azure OpenAI • Power Apps *(learning)* | Microsoft 365 • SharePoint Online • Power Automate • Microsoft Teams • Microsoft Forms • Azure OpenAI • Power Apps *(průběžně se učím)* |
-
----
 <!-- ========================================================= -->
 <!-- README V2.0 -->
 <!-- PART 3 -->
-<!-- ========================================================= -->
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Featured Portfolio Projects | ## Hlavní portfolio projekty |
-| Every project in this portfolio represents a real solution that I designed, tested and continue improving inside my personal Microsoft 365 tenant. Each project helped me better understand Microsoft technologies and business process automation. | Každý projekt v tomto portfoliu představuje reálné řešení, které jsem navrhla, otestovala a dále rozvíjím ve svém vlastním Microsoft 365 tenantovi. Každý projekt mi pomohl lépe porozumět technologiím Microsoftu i automatizaci firemních procesů. |
-
----
-
-| 🇬🇧 AI Media Processing Agent | 🇨🇿 AI Media Processing Agent |
-|:-----------|:----------|
-| **Business Problem**<br>Automate document processing using Microsoft 365, SharePoint, Power Automate and Azure OpenAI. | **Řešený problém**<br>Automatizovat zpracování dokumentů pomocí Microsoft 365, SharePointu, Power Automate a Azure OpenAI. |
-| **What I built**<br>Document upload, SharePoint registration, AI summary, metadata extraction and Microsoft Teams notifications. | **Co jsem vytvořila**<br>Nahrání dokumentu, registraci v SharePointu, AI shrnutí, zpracování metadat a notifikace do Microsoft Teams. |
-| **What I learned**<br>During testing I discovered that text-based PDF documents and technical drawings stored as PNG images require different AI processing approaches. The next version of the project will include a dedicated workflow for technical drawings. | **Co jsem se naučila**<br>Během testování jsem zjistila, že textová PDF a technické výkresy uložené jako PNG vyžadují odlišný způsob AI zpracování. Další verze projektu bude obsahovat samostatné workflow pro technické výkresy. |
-
----
-
-| 🇬🇧 HR AI Workflow | 🇨🇿 HR AI Workflow |
-|:-----------|:----------|
-| **Business Problem**<br>Automate HR requests and enrich them with AI before storing them in SharePoint. | **Řešený problém**<br>Automatizovat zpracování HR požadavků a doplnit je o AI analýzu před uložením do SharePointu. |
-| **What I built**<br>Microsoft Forms, SharePoint, Power Automate, Azure OpenAI and Microsoft Teams integration. | **Co jsem vytvořila**<br>Propojení Microsoft Forms, SharePointu, Power Automate, Azure OpenAI a Microsoft Teams. |
-| **What I learned**<br>A Flow can finish successfully while the final result is still incorrect. I learned to verify SharePoint fields, data mapping and the complete business process. | **Co jsem se naučila**<br>Úspěšně dokončené Flow ještě nemusí znamenat správný výsledek. Naučila jsem se kontrolovat SharePoint pole, mapování dat i celý průběh procesu. |
-
----
-
-| 🇬🇧 AI Learning Radar | 🇨🇿 AI Learning Radar |
-|:-----------|:----------|
-| **Business Problem**<br>Automatically collect Microsoft news, generate AI summaries and notify users through Microsoft Teams. | **Řešený problém**<br>Automaticky sbírat novinky z Microsoft prostředí, vytvářet AI shrnutí a doručovat je do Microsoft Teams. |
-| **What I built**<br>RSS monitoring, Azure OpenAI summaries, SharePoint storage and Teams notifications. | **Co jsem vytvořila**<br>Sledování RSS, AI shrnutí pomocí Azure OpenAI, ukládání do SharePointu a notifikace do Microsoft Teams. |
-| **What I learned**<br>Automation is not only about saving time. It can also help people stay informed without manually searching for new information. | **Co jsem se naučila**<br>Automatizace neslouží pouze k úspoře času. Může lidem pomoci získávat důležité informace bez nutnosti je aktivně vyhledávat. |
-
----
-
-| 🇬🇧 Compliance Agent *(In Progress)* | 🇨🇿 Compliance Agent *(Ve vývoji)* |
-|:-----------|:----------|
-| **Business Problem**<br>Analyse business documents for DORA, NIS2 and GDPR compliance using Azure OpenAI. | **Řešený problém**<br>Analyzovat firemní dokumenty z pohledu DORA, NIS2 a GDPR pomocí Azure OpenAI. |
-| **Current Goal**<br>Create an AI assistant that identifies compliance risks, stores findings in SharePoint and supports governance processes. | **Aktuální cíl**<br>Vytvořit AI řešení, které identifikuje compliance rizika, ukládá výsledky do SharePointu a podporuje governance procesy. |
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## What these projects taught me | ## Co mě tyto projekty naučily |
-| Every project helped me understand that building automation is not only about creating workflows. It is about understanding business processes, testing different approaches and continuously improving the solution. | Každý projekt mi ukázal, že automatizace není jen tvorba workflow. Je především o pochopení firemních procesů, testování různých přístupů a postupném zlepšování řešení. |
-| The most valuable lessons often came from situations where the first solution did not work as expected. Those moments helped me understand the technology much better. | Nejcennější zkušenosti často vznikly právě ve chvílích, kdy první řešení nefungovalo podle očekávání. Právě tyto situace mi pomohly technologiím mnohem lépe porozumět. |
-
----
-
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Current Focus | ## Na co se právě zaměřuji |
-| Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI Process Automation • Business Process Design • Governance • Continuous Learning | Microsoft 365 • SharePoint Online • Power Automate • Azure OpenAI • AI automatizace • Návrh firemních procesů • Governance • Průběžné vzdělávání |
-
-<!-- ========================================================= -->
-<!-- README V2.0 -->
-<!-- PART 4 -->
 <!-- ========================================================= -->
 
 ---
