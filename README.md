@@ -87,14 +87,27 @@ AI Process Automation
 
 ---
 
-| 🇬🇧 English | 🇨🇿 Česky |
-|:-----------|:----------|
-| ## Project Story 1 – AI Travel Request Application | ## Projekt 1 – AI aplikace pro služební cesty |
-| **Business Goal**<br>Design and build a business travel request application using Firebase Studio and Gemini, with a future integration into Microsoft 365 business processes. | **Cíl projektu**<br>Navrhnout a vytvořit aplikaci pro služební cesty pomocí Firebase Studio a Gemini s možností budoucí integrace do procesů Microsoft 365. |
-| **Technologies**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook | **Technologie**<br>Firebase Studio • Gemini • Firestore • Google Cloud • SharePoint Online • Power Automate • Microsoft Teams • Outlook |
-| **Challenge**<br>The biggest challenge was not building the application itself. I first had to understand how Firebase Studio, Firestore and Google Cloud work together. My initial version did not store data as expected, so instead of adding more features I returned to the architecture and rebuilt the solution from the database upwards. | **Výzva**<br>Nejtěžší částí nebylo vytvoření aplikace. Nejprve jsem musela pochopit spolupráci Firebase Studio, Firestore a Google Cloud. První verze neukládala data podle očekávání, proto jsem se místo přidávání dalších funkcí vrátila zpět a přepracovala řešení od databáze. |
-| **How I approached it**<br>I created the Firestore database, verified data storage and only then continued developing the application with Gemini. The application supports multiple currencies, travel expenses, accommodation, flights and cash advance requests. Afterwards I prepared the workflow for SharePoint, Power Automate and approval notifications. | **Jak jsem postupovala**<br>Nejdříve jsem vytvořila databázi Firestore, ověřila správné ukládání dat a teprve potom pokračovala ve vývoji aplikace pomocí Gemini. Aplikace podporuje více měn, plánování nákladů, ubytování, letenky i žádost o zálohu. Následně jsem připravila workflow pro SharePoint, Power Automate a schvalovací proces. |
-| **What I learned**<br>This project changed the way I approach application development. Today I always start with data, business processes and architecture before designing the user interface. | **Co jsem se naučila**<br>Tento projekt změnil způsob, jakým přemýšlím o vývoji aplikací. Dnes začínám daty, procesem a architekturou. Uživatelské rozhraní navrhuji až poté. |
+## 📖 Project Story 1 – AI Travel Request Application | Projekt 1 – AI aplikace pro služební cesty
+
+| 🇬🇧 English | 🇨🇿 Čeština |
+|------------|------------|
+| I wanted to build more than just a form. My goal was to understand how a complete business process works – from data collection through approvals to notifications. I designed a travel request application in Firebase Studio with Gemini, connected it with Firestore for data storage and prepared the workflow for Microsoft 365 integration using Power Automate, SharePoint, Teams and Outlook. During the project I learned that successful applications start with data architecture, permissions and business processes, not with the user interface. | Chtěla jsem vytvořit více než jen formulář. Mým cílem bylo pochopit celý firemní proces – od zadání dat přes schvalování až po notifikace. Navrhla jsem aplikaci pro služební cesty ve Firebase Studio s využitím Gemini, pro ukládání dat použila Firestore a připravila integraci s Microsoft 365 pomocí Power Automate, SharePointu, Teams a Outlooku. Během projektu jsem zjistila, že úspěšná aplikace začíná návrhem datové architektury, oprávnění a procesů, nikoliv uživatelským rozhraním. |
+
+### 🏗️ Architecture Overview
+
+<p align="center">
+  <img src="images/travel-request-workflow.png" alt="End-to-End AI Travel Request Workflow" width="100%">
+</p>
+
+> **End-to-end workflow:** Firebase Studio → Firestore → Power Automate → SharePoint → Approval → Microsoft Teams / Outlook
+
+---
+
+### What this project taught me | Co mě tento projekt naučil
+
+| 🇬🇧 English | 🇨🇿 Čeština |
+|------------|------------|
+| ✔ Always design the data architecture before building the application.<br>✔ Verify data storage with small tests before continuing development.<br>✔ Connect Google Cloud technologies with Microsoft 365 services into one business workflow.<br>✔ Continuous testing and validation are essential for reliable solutions. | ✔ Nejdříve navrhnout datovou architekturu a až poté začít vyvíjet aplikaci.<br>✔ Ověřit ukládání dat malými testy ještě před dalším vývojem.<br>✔ Propojit technologie Google Cloud a Microsoft 365 do jednoho funkčního firemního procesu.<br>✔ Průběžné testování a ověřování je klíčem ke spolehlivému řešení. |
 
 ---
 
