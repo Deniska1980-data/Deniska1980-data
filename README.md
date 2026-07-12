@@ -267,19 +267,27 @@ AI Process Automation
 
 ---
 
-## 📫 Contact
+<table>
+<tr>
+<td>💼</td>
+<td><a href="https://www.linkedin.com/in/denisa-pitnerova">LinkedIn</a></td>
+</tr>
 
-💼 **LinkedIn**  
-<a href="https://www.linkedin.com/in/denisa-pitnerova">linkedin.com/in/denisa-pitnerova</a>
+<tr>
+<td>💻</td>
+<td><a href="https://github.com/Deniska1980-data">GitHub</a></td>
+</tr>
 
-💻 **GitHub**  
-github.com/Deniska1980-data
+<tr>
+<td>📧</td>
+<td>denisa_pitnerova@yahoo.com</td>
+</tr>
 
-📧 **E-mail**  
-denisa_pitnerova@yahoo.com
-
-📍 **Location**  
-Prague, Czech Republic
+<tr>
+<td>📍</td>
+<td>Prague, Czech Republic</td>
+</tr>
+</table>
 ---
 
 <p align="center">
