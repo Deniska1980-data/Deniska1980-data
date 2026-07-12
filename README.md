@@ -134,9 +134,8 @@ AI Process Automation
 | **What I learned**<br>I learned that successful automation is not measured by a green checkmark in Power Automate, but by correct business results. Validation, testing and documentation are essential parts of every project. | **Co jsem se naučila**<br>Naučila jsem se, že úspěšná automatizace se nepozná podle zelené fajfky v Power Automate, ale podle správného výsledku. Ověření dat, testování a dokumentace jsou nedílnou součástí každého projektu. |
 
 ---
-
 <!-- ========================================================= -->
-<!-- README V2.0 -->
+<!-- README V2.1 -->
 <!-- PART 3 -->
 <!-- ========================================================= -->
 
@@ -145,7 +144,7 @@ AI Process Automation
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Looking for New Opportunities | ## Hledám novou pracovní příležitost |
-| I am currently looking for a junior position focused on Microsoft 365, SharePoint, Power Platform or AI-powered business process automation. I am looking for an environment where I can continue learning, contribute to real projects and grow alongside experienced colleagues. I am available to start immediately. | Aktuálně hledám juniorskou pozici zaměřenou na Microsoft 365, SharePoint, Power Platform nebo automatizaci firemních procesů s využitím AI. Hledám prostředí, kde se budu moci dále rozvíjet, podílet se na reálných projektech a učit se od zkušenějších kolegů. Nastoupit mohu ihned. |
+| I am looking for a Junior Microsoft 365 / Power Platform position where I can continue developing practical business solutions, learn from experienced colleagues and contribute to projects that create real value for users. I am available to start immediately. | Hledám juniorskou pozici v oblasti Microsoft 365 nebo Power Platform, kde budu moci dále rozvíjet praktická řešení, učit se od zkušenějších kolegů a podílet se na projektech, které mají skutečný přínos pro uživatele. Nastoupit mohu ihned. |
 
 ---
 
@@ -154,24 +153,25 @@ AI Process Automation
 | ## What I Can Bring to Your Team | ## Co mohu přinést vašemu týmu |
 | • Process-oriented thinking based on previous business experience. | • Procesní přemýšlení vycházející z předchozí praxe v administrativě a HR. |
 | • Experience building Microsoft 365 automation projects from idea to working solution. | • Zkušenosti se stavbou Microsoft 365 automatizací od prvního návrhu až po funkční řešení. |
-| • Strong documentation habits and willingness to share knowledge. | • Důraz na dokumentaci a sdílení získaných zkušeností. |
-| • Curiosity, persistence and continuous learning. | • Zvídavost, vytrvalost a chuť se neustále učit. |
-| • The ability to connect business processes with modern Microsoft technologies. | • Schopnost propojit firemní procesy s moderními technologiemi Microsoftu. |
+| • Strong documentation habits and willingness to share knowledge. | • Důraz na kvalitní dokumentaci a sdílení získaných zkušeností. |
+| • Ability to learn new technologies independently and continuously improve my skills. | • Schopnost samostatně se učit nové technologie a neustále rozvíjet své dovednosti. |
+| • Ability to connect business processes with modern Microsoft technologies. | • Schopnost propojit firemní procesy s moderními technologiemi Microsoftu. |
+| • Positive attitude, curiosity and persistence when solving new challenges. | • Pozitivní přístup, zvídavost a vytrvalost při řešení nových výzev. |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Beyond Technology | ## Co je pro mě důležité |
-| Technology alone does not solve problems. Understanding people, their work and the business process always comes first. That is why I enjoy designing solutions that are practical, understandable and useful in everyday work. | Technologie sama o sobě problémy neřeší. Nejprve je potřeba porozumět lidem, jejich práci a firemním procesům. Proto mě baví navrhovat řešení, která jsou praktická, srozumitelná a využitelná v každodenní praxi. |
-| I believe that the best way to grow in IT is to stay curious, keep learning and never stop improving your own projects. | Věřím, že nejlepší cesta k růstu v IT vede přes zvídavost, ochotu učit se a neustálé zlepšování vlastních projektů. |
+| Technology alone does not solve business problems. Every successful solution starts with understanding people, their work and the business process. That is why I enjoy designing solutions that are practical, understandable and useful in everyday work. | Technologie sama o sobě firemní problémy neřeší. Každé úspěšné řešení začíná pochopením lidí, jejich práce a firemních procesů. Proto mě baví navrhovat řešení, která jsou praktická, srozumitelná a využitelná v každodenní praxi. |
+| Every project in this portfolio represents a real learning journey. I intentionally document not only successful results, but also challenges, redesigns and lessons learned, because continuous improvement is an essential part of professional growth. | Každý projekt v tomto portfoliu představuje skutečnou cestu učení. Záměrně dokumentuji nejen úspěšné výsledky, ale i problémy, přepracování řešení a získané zkušenosti, protože právě průběžné zlepšování považuji za nedílnou součást profesního růstu. |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
 | ## Let's Connect | ## Pojďme se spojit |
-| If my portfolio caught your attention, I would be happy to connect and discuss Microsoft 365, Power Platform, AI automation or future opportunities. | Pokud vás moje portfolio zaujalo, budu ráda, když se spojíme. Ráda si popovídám o Microsoft 365, Power Platform, AI automatizaci nebo budoucí spolupráci. |
+| If my portfolio caught your attention, I would be happy to connect and discuss Microsoft 365, Power Platform, AI automation or future opportunities. Thank you for taking the time to explore my work. | Pokud vás moje portfolio zaujalo, budu ráda, když se spojíme. Ráda si popovídám o Microsoft 365, Power Platform, AI automatizaci nebo budoucí spolupráci. Děkuji, že jste si našli čas prohlédnout si moji práci. |
 
 ---
 
@@ -196,13 +196,14 @@ AI Process Automation
 <td>Prague, Czech Republic</td>
 </tr>
 </table>
+
 ---
 
 <p align="center">
 
 ### Thank you for visiting my portfolio.
 
-Every repository represents another step in my learning journey.
+Every repository represents a real project, a solved problem and another step in my professional growth.
 
 I believe that the best solutions are created through curiosity, continuous improvement and practical experience.
 
@@ -210,8 +211,8 @@ I believe that the best solutions are created through curiosity, continuous impr
 
 ### Děkuji za návštěvu mého portfolia.
 
-Každý repozitář představuje další krok na mé profesní cestě.
+Každý repozitář představuje skutečný projekt, vyřešený problém a další krok na mé profesní cestě.
 
-Věřím, že nejlepší řešení vznikají díky zvídavosti, postupnému zlepšování a praktickým zkušenostem.
+Věřím, že nejlepší řešení vznikají díky zvídavosti, průběžnému zlepšování a praktickým zkušenostem.
 
 </p>
