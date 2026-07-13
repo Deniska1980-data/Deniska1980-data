@@ -25,7 +25,7 @@ Vytvářím praktická řešení postavená na Microsoft 365 prostřednictvím r
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## About me | ## O mně |
+| ## **About me** | ## **O mně** |
 | My journey into IT started in administration, HR and CRM systems. Working with business processes taught me that technology is valuable only when it genuinely helps people. | Moje cesta do IT začala v administrativě, HR a práci s CRM systémy. Díky zkušenostem s firemními procesy jsem zjistila, že technologie mají smysl pouze tehdy, když skutečně pomáhají lidem. |
 | Today I focus on Microsoft 365, SharePoint, Power Automate and Azure OpenAI. I build practical solutions that automate repetitive tasks, simplify everyday work and connect multiple Microsoft services into one business process. | Dnes se zaměřuji na Microsoft 365, SharePoint, Power Automate a Azure OpenAI. Stavím praktická řešení, která automatizují opakující se činnosti, zjednodušují každodenní práci a propojují více Microsoft služeb do jednoho firemního procesu. |
 | Rather than collecting technologies, I enjoy understanding how processes work and designing solutions that make them more efficient. | Místo sbírání technologií mě baví pochopit fungování procesu a navrhnout řešení, které bude jednodušší, přehlednější a efektivnější. |
@@ -34,7 +34,7 @@ Vytvářím praktická řešení postavená na Microsoft 365 prostřednictvím r
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Why Microsoft 365? | ## Proč právě Microsoft 365? |
+| ## **Why Microsoft 365?** | ## **Proč právě Microsoft 365?** |
 | What attracted me most to Microsoft 365 is the way individual services work together. SharePoint, Power Automate, Teams, Forms and Azure OpenAI become much more powerful when they are connected into one solution. | Na Microsoft 365 mě nejvíce zaujalo to, jak spolu jednotlivé služby spolupracují. SharePoint, Power Automate, Teams, Forms a Azure OpenAI dávají největší smysl ve chvíli, kdy jsou propojené do jednoho funkčního řešení. |
 | Most of my projects are built inside my own Microsoft 365 tenant. It allows me to safely experiment, test new ideas, learn from mistakes and continuously improve each project. | Většinu projektů stavím ve vlastním Microsoft 365 tenantovi. Díky tomu mohu bezpečně experimentovat, testovat nové nápady, učit se z chyb a jednotlivé projekty postupně rozvíjet. |
 | Building solutions in my own environment has taught me much more than simply following tutorials. Every project becomes another practical learning experience. | Stavba vlastních řešení mě naučila mnohem více než pouhé sledování návodů. Každý projekt je pro mě další praktickou zkušeností. |
@@ -43,7 +43,7 @@ Vytvářím praktická řešení postavená na Microsoft 365 prostřednictvím r
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## My approach | ## Jak přemýšlím |
+| ## **My approach** | ## **Jak přemýšlím** |
 | I don't start with technology. I start with a business problem. Once I understand the process, I look for the best combination of Microsoft 365 services that can simplify it. | Nikdy nezačínám technologií. Začínám problémem nebo procesem. Jakmile pochopím, co je potřeba vyřešit, hledám nejvhodnější kombinaci služeb Microsoft 365, která celý proces zjednoduší. |
 | Automation is not the goal. It is a tool that helps people spend less time on repetitive work and more time on meaningful tasks. | Automatizace pro mě není cíl. Je to nástroj, který pomáhá lidem trávit méně času opakujícími se činnostmi a více času prací s vyšší přidanou hodnotou. |
 
@@ -82,7 +82,7 @@ Business AI Solutions
 ---
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Learning Through Real Projects | ## Učení prostřednictvím reálných projektů |
+| ## **Learning Through Real Projects** | ## **Učení prostřednictvím reálných projektů** |
 | I learn best by building real business solutions. Every project in this portfolio represents a real problem that I had to analyse, test and gradually improve. Some solutions worked immediately, while others required me to step back, redesign the architecture and try again. Those experiences taught me much more than following a tutorial ever could. | Nejvíce se učím při tvorbě reálných řešení. Každý projekt v tomto portfoliu představuje skutečný problém, který jsem musela analyzovat, testovat a postupně vylepšovat. Některá řešení fungovala hned, jiná mě donutila vrátit se o krok zpět, přepracovat architekturu a začít znovu. Právě tyto zkušenosti mě naučily nejvíce. |
 
 ---
@@ -91,7 +91,7 @@ Business AI Solutions
 
 | 🇬🇧 English | 🇨🇿 Čeština |
 |------------|------------|
-| I wanted to build more than just a form. My goal was to understand how a complete business process works – from data collection through approvals to notifications. I designed a travel request application in Firebase Studio with Gemini, connected it with Firestore for data storage and prepared the workflow for Microsoft 365 integration using Power Automate, SharePoint, Teams and Outlook. During the project I learned that successful applications start with data architecture, permissions and business processes, not with the user interface. | Chtěla jsem vytvořit více než jen formulář. Mým cílem bylo pochopit celý firemní proces – od zadání dat přes schvalování až po notifikace. Navrhla jsem aplikaci pro služební cesty ve Firebase Studio s využitím Gemini, pro ukládání dat použila Firestore a připravila integraci s Microsoft 365 pomocí Power Automate, SharePointu, Teams a Outlooku. Během projektu jsem zjistila, že úspěšná aplikace začíná návrhem datové architektury, oprávnění a procesů, nikoliv uživatelským rozhraním. |
+| I wanted to build more than just a form. My goal was to understand how a complete business process works – from data collection through approvals to notifications. I designed a travel request application in Firebase Studio with Gemini, connected it with Firestore for data storage and prepared the workflow for Microsoft 365 integration using Power Automate, SharePoint, Teams and Outlook. During the project I learned that successful applications start with data architecture, permissions and business processes, not with the user interface. | **Chtěla jsem vytvořit více než jen formulář. Mým cílem bylo pochopit celý firemní proces – od zadání dat přes schvalování až po notifikace. Navrhla jsem aplikaci pro služební cesty ve Firebase Studio s využitím Gemini, pro ukládání dat použila Firestore a připravila integraci s Microsoft 365 pomocí Power Automate, SharePointu, Teams a Outlooku. Během projektu jsem zjistila, že úspěšná aplikace začíná návrhem datové architektury, oprávnění a procesů, nikoliv uživatelským rozhraním.** |
 
 ### 🏗️ Architecture Overview
 
@@ -109,13 +109,13 @@ Business AI Solutions
 
 | 🇬🇧 English | 🇨🇿 Čeština |
 |------------|------------|
-| ✔ Always design the data architecture before building the application.<br>✔ Verify data storage with small tests before continuing development.<br>✔ Connect Google Cloud technologies with Microsoft 365 services into one business workflow.<br>✔ Continuous testing and validation are essential for reliable solutions. | ✔ Nejdříve navrhnout datovou architekturu a až poté začít vyvíjet aplikaci.<br>✔ Ověřit ukládání dat malými testy ještě před dalším vývojem.<br>✔ Propojit technologie Google Cloud a Microsoft 365 do jednoho funkčního firemního procesu.<br>✔ Průběžné testování a ověřování je klíčem ke spolehlivému řešení. |
+| ✔ Always design the data architecture before building the application.<br>✔ Verify data storage with small tests before continuing development.<br>✔ Connect Google Cloud technologies with Microsoft 365 services into one business workflow.<br>✔ Continuous testing and validation are essential for reliable solutions. | **✔ Nejdříve navrhnout datovou architekturu a až poté začít vyvíjet aplikaci.<br>✔ Ověřit ukládání dat malými testy ještě před dalším vývojem.<br>✔ Propojit technologie Google Cloud a Microsoft 365 do jednoho funkčního firemního procesu.<br>✔ Průběžné testování a ověřování je klíčem ke spolehlivému řešení.** |
 
 ---
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Project Story 2 – AI Media Processing Agent | ## Projekt 2 – AI Media Processing Agent |
+| ## **Project Story 2 – AI Media Processing Agent** | ## **Projekt 2 – AI Media Processing Agent** |
 | **Business Goal**<br>Create an automated document processing workflow using SharePoint, Power Automate and Azure OpenAI. | **Cíl projektu**<br>Vytvořit automatizované zpracování dokumentů pomocí SharePointu, Power Automate a Azure OpenAI. |
 | **Technologies**<br>SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams | **Technologie**<br>SharePoint Online • Power Automate • Azure OpenAI • Microsoft Teams |
 | **Challenge**<br>During testing I discovered that PDF documents and PNG technical drawings cannot be processed in the same way. Although the workflow completed successfully, the AI processing needed a different approach for image-based documents. | **Výzva**<br>Během testování jsem zjistila, že PDF dokumenty a technické výkresy ve formátu PNG nelze zpracovávat stejným způsobem. Workflow sice proběhlo úspěšně, ale AI zpracování obrazových dokumentů vyžadovalo jiný přístup. |
@@ -153,7 +153,7 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## What I Can Bring to Your Team | ## Co mohu přinést vašemu týmu |
+| ## **What I Can Bring to Your Team** | ## **Co mohu přinést vašemu týmu** |
 | • Process-oriented thinking based on previous business experience. | • Procesní přemýšlení vycházející z předchozí praxe v administrativě a HR. |
 | • Experience building Microsoft 365 automation projects from idea to working solution. | • Zkušenosti se stavbou Microsoft 365 automatizací od prvního návrhu až po funkční řešení. |
 | • Strong documentation habits and willingness to share knowledge. | • Důraz na kvalitní dokumentaci a sdílení získaných zkušeností. |
@@ -165,7 +165,7 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Beyond Technology | ## Co je pro mě důležité |
+| ## **Beyond Technology** | ## **Co je pro mě důležité** |
 | Technology alone does not solve business problems. Every successful solution starts with understanding people, their work and the business process. That is why I enjoy designing solutions that are practical, understandable and useful in everyday work. | Technologie sama o sobě firemní problémy neřeší. Každé úspěšné řešení začíná pochopením lidí, jejich práce a firemních procesů. Proto mě baví navrhovat řešení, která jsou praktická, srozumitelná a využitelná v každodenní praxi. |
 | Every project in this portfolio represents a real learning journey. I intentionally document not only successful results, but also challenges, redesigns and lessons learned, because continuous improvement is an essential part of professional growth. | Každý projekt v tomto portfoliu představuje skutečnou cestu učení. Záměrně dokumentuji nejen úspěšné výsledky, ale i problémy, přepracování řešení a získané zkušenosti, protože právě průběžné zlepšování považuji za nedílnou součást profesního růstu. |
 
@@ -173,7 +173,7 @@ CZ: Projekt dále rozvíjím a pokračuji v testování multimodálního AI zpra
 
 | 🇬🇧 English | 🇨🇿 Česky |
 |:-----------|:----------|
-| ## Let's Connect | ## Pojďme se spojit |
+| ## Let's Connect | ## **Pojďme se spojit** |
 | If my portfolio caught your attention, I would be happy to connect and discuss Microsoft 365, Power Platform, AI automation or future opportunities. Thank you for taking the time to explore my work. | Pokud vás moje portfolio zaujalo, budu ráda, když se spojíme. Ráda si popovídám o Microsoft 365, Power Platform, AI automatizaci nebo budoucí spolupráci. Děkuji, že jste si našli čas prohlédnout si moji práci. |
 
 ---
